@@ -14,4 +14,4 @@ Django | HTML/CSS | Bootstrap | SQLite ORM
 `python manage.py runserver` → http://127.0.0.1:8000
 
 ## Screenshots
-![Todo Dashboard](screenshots/dashboard.png)
+![Todo Dashboard](project_screenshots/dashboard.png)
