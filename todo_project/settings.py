@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-your-temp-key-change-for-production-123456789'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['django-todo-app-production-00e5.up.railway.app', '*']
+
 
 
 # Application definition
